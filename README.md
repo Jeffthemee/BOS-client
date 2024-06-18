@@ -16,4 +16,5 @@ Step 6: A command promnt like window should open up and start logging user joins
 EXAMPLE:![image](https://github.com/Jeffthemee/BOS-client/assets/57741393/45ef0f4e-ceab-40e3-b3eb-3294a5b464cf) <br>
 
 #### Support
-Join the discord! https://discord.gg/DyvvfyYN9
+Create an issue on this github if you need support
+If you believe someone was falsely added to the list add me on discord and send the ban id .jefftheme
